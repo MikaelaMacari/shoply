@@ -1,22 +1,19 @@
 import "./globals.css";
 import Head from "next/head";
 import Providers from "./providers";
-import { Roboto, Lato, Josefin_Sans } from "@next/font/google";
+import { Roboto } from "@next/font/google";
+import Navbar from "../src/components/modules/navbar";
 
 const roboto = Roboto({
   weight: ["400", "500", "700"],
   variable: "--roboto-font",
 });
-const lato = Lato({
-  weight: ["400", "300", "700"],
-  variable: "--lato-font",
-});
-const josefin = Josefin_Sans({
-  weight: "400",
-  variable: "--josefin-font",
-});
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="en" className={roboto.variable}>
       <Head>
@@ -25,7 +22,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <body>
-        <Providers>{children}</Providers>
+        <Providers>
+          <Navbar />
+          {children}
+        </Providers>
       </body>
     </html>
   );

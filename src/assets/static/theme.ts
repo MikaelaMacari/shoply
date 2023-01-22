@@ -1,12 +1,26 @@
 import { createTheme } from "@mui/material/styles";
+import { Roboto } from "@next/font/google";
+
+export const roboto = Roboto({
+  weight: ["400", "500", "700"],
+  variable: "--roboto-font",
+});
+// export const lato = Lato({
+//   weight: ["400", "300", "700"],
+//   variable: "--lato-font",
+// });
+// export const josefin = Josefin_Sans({
+//   weight: "400",
+//   variable: "--josefin-font",
+// });
 
 export const theme = createTheme({
   palette: {
     mode: "light",
     primary: {
-      main: "#393d45",
+      main: "#211f1c",
       light: "#484543",
-      dark: "#211f1c",
+      dark: "#393d45",
       contrastText: "#ffffff",
     },
     secondary: {
@@ -38,6 +52,12 @@ export const theme = createTheme({
       900: "#616467",
       A100: "#5e5e5e",
       A200: "#393d45",
+    },
+    error: {
+      main: "#f13131",
+      light: "#FF6565",
+      dark: "#ad1a1a",
+      contrastText: "#F5F7FB",
     },
   },
 });
