@@ -1,6 +1,8 @@
-"use client";
+// "use client";
+
+import HomeContent from "src/components/modules/Home";
 
 const HomePage = () => {
-  return <h2>HOME</h2>;
+  return <HomeContent />;
 };
 export default HomePage;

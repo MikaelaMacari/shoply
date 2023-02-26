@@ -1,7 +1,8 @@
-import { Stack, Drawer } from "@mui/material";
-import { styled } from "@mui/material/styles";
-import { theme } from "src/assets/static/theme";
-import { Logo } from "../../index.styled";
+import {Stack, Drawer} from "@mui/material";
+import {Box as MuiBox} from "@mui/material";
+import {styled} from "@mui/material/styles";
+import {theme} from "src/assets/static/theme";
+import {Logo} from "../../index.styled";
 
 export const ToggleButton = styled(Stack)(() => ({
   backgroundColor: theme.palette.grey.A200,
@@ -29,7 +30,16 @@ export const MobileLogo = styled(Logo)(() => ({
 }));
 
 export const StyledSidebar = styled(Drawer)(() => ({
-  "& .MuiDrawer-paper": { boxSizing: "border-box", width: 240 },
+  "& .MuiDrawer-paper": {boxSizing: "border-box", width: 240},
+  [theme.breakpoints.up("xs")]: {
+    display: "block",
+  },
+  [theme.breakpoints.up("sm")]: {
+    display: "none",
+  },
+}));
+
+export const Box = styled(MuiBox)(() => ({
   [theme.breakpoints.up("xs")]: {
     display: "block",
   },

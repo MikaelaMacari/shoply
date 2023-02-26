@@ -1,18 +1,18 @@
 import { createTheme } from "@mui/material/styles";
-import { Roboto } from "@next/font/google";
+import { Roboto, Lato, Josefin_Sans } from "@next/font/google";
 
 export const roboto = Roboto({
   weight: ["400", "500", "700"],
   variable: "--roboto-font",
 });
-// export const lato = Lato({
-//   weight: ["400", "300", "700"],
-//   variable: "--lato-font",
-// });
-// export const josefin = Josefin_Sans({
-//   weight: "400",
-//   variable: "--josefin-font",
-// });
+export const lato = Lato({
+  weight: ["400", "300", "700"],
+  variable: "--lato-font",
+});
+export const josefin = Josefin_Sans({
+  weight: "400",
+  variable: "--josefin-font",
+});
 
 export const theme = createTheme({
   palette: {

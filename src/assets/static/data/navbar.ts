@@ -4,21 +4,24 @@ export const navItems: LinkInterface[] = [
   {
     href: "/",
     label: "Home",
+    main: true,
   },
   {
-    href: "/",
+    href: "/products",
     label: "Products",
+    main: true,
   },
   {
-    href: "/",
+    href: "/about",
     label: "About",
+    main: true,
   },
   {
-    href: "/",
+    href: "/cart",
     label: "Cart",
   },
   {
-    href: "/",
+    href: "/login",
     label: "Login",
   },
 ];
