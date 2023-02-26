@@ -2,18 +2,14 @@ import "./globals.css";
 import Head from "next/head";
 import Providers from "./providers";
 import { Roboto } from "@next/font/google";
-import Navbar from "../src/components/modules/navbar";
+import Navbar from "src/components/modules/navbar";
 
 const roboto = Roboto({
   weight: ["400", "500", "700"],
   variable: "--roboto-font",
 });
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: JSX.Element }) {
   return (
     <html lang="en" className={roboto.variable}>
       <Head>
@@ -24,6 +20,7 @@ export default function RootLayout({
       <body>
         <Providers>
           <Navbar />
+          {/*<PageContainer>{children}</PageContainer>*/}
           {children}
         </Providers>
       </body>
