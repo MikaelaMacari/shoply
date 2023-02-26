@@ -76,7 +76,7 @@
 /*  max-width: 1200px;*/
 /*}*/
 
-/*.card {*/
+/*.Card {*/
 /*  margin: 1rem;*/
 /*  padding: 1.5rem;*/
 /*  text-align: left;*/
@@ -88,19 +88,19 @@
 /*  max-width: 300px;*/
 /*}*/
 
-/*.card:hover,*/
-/*.card:focus,*/
-/*.card:active {*/
+/*.Card:hover,*/
+/*.Card:focus,*/
+/*.Card:active {*/
 /*  color: #0070f3;*/
 /*  border-color: #0070f3;*/
 /*}*/
 
-/*.card h2 {*/
+/*.Card h2 {*/
 /*  margin: 0 0 1rem 0;*/
 /*  font-size: 1.5rem;*/
 /*}*/
 
-/*.card p {*/
+/*.Card p {*/
 /*  margin: 0;*/
 /*  font-size: 1.25rem;*/
 /*  line-height: 1.5;*/
@@ -133,7 +133,7 @@
 /*    background-clip: text;*/
 /*    text-fill-color: transparent;*/
 /*  }*/
-/*  .card,*/
+/*  .Card,*/
 /*  .footer {*/
 /*    border-color: #222;*/
 /*  }*/

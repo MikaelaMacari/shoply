@@ -4,10 +4,10 @@ import React from "react";
 
 type Props = {
   children?: React.ReactNode;
-  // className?: string;
+  className?: string;
 };
 
-const Section = ({ children }: Props) => {
-  return <section className="px-20 py-10">{children}</section>;
+const Section = ({ children, className = "px-20 py-10" }: Props) => {
+  return <section className={className}>{children}</section>;
 };
 export default Section;

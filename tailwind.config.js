@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  important: true,
   content: [
     "./app/**/*.{js,ts,jsx,tsx}",
     "./pages/**/*.{js,ts,jsx,tsx}",
@@ -52,6 +53,9 @@ module.exports = {
       spacing: {
         128: "32rem",
         144: "36rem",
+      },
+      screens: {
+        "2xl": "1500px",
       },
     },
   },
