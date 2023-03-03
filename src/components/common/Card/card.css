@@ -1,0 +1,16 @@
+.card {
+    @apply h-96 w-60 bg-backgroundDefault shadow-xl shadow-grey-A100 rounded-2xl relative flex flex-col justify-end items-center pb-3
+}
+
+.buttons-container {
+    @apply flex justify-center gap-10 absolute
+}
+
+.details-btn {
+    @apply bg-primaryDark hover:bg-primaryMain text-secondaryLight uppercase px-6 py-2 text-center font-josefin text-sm rounded-lg
+}
+
+.cart-btn {
+    @apply bg-backgroundPaper hover:bg-grey-400 text-secondaryLight uppercase px-5 py-2 text-center font-josefin text-sm rounded-lg
+}
+

@@ -1,0 +1,566 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Max True cheap wireless headphones",
+      "images": [
+        "/assets/images/electronics/1.webp",
+        "/assets/images/electronics/1.1.webp",
+        "/assets/images/electronics/1.2.webp",
+        "/assets/images/electronics/1.3.webp",
+        "/assets/images/electronics/1.4.webp"
+      ],
+      "categoryId": 1,
+      "description": "Max True cheap wireless headphones Headphone with breathable earmuff headset",
+      "price": 25,
+      "stock": 150
+    },
+    {
+      "id": 2,
+      "name": "Razer DeathAdder Essential Gaming Mouse",
+      "images": [
+        "/assets/images/electronics/2.jpg",
+        "/assets/images/electronics/2.1.jpg",
+        "/assets/images/electronics/2.2.jpg",
+        "/assets/images/electronics/2.3.jpg",
+        "/assets/images/electronics/2.4.jpg"
+      ],
+      "categoryId": 1,
+      "description": "Gaming Peripherals Manufacturer in the US: Source - The NPD Group, Inc. U.S. Retail Tracking Service, Keyboards, Mice, PC Headset/Pc Microphone, Gaming Designed, based on dollar sales, 2017-2021",
+      "price": 19.9,
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "name": "Logitech G502 HERO",
+      "images": [
+        "/assets/images/electronics/3.jpg",
+        "/assets/images/electronics/3.1.jpg",
+        "/assets/images/electronics/3.2.jpg",
+        "/assets/images/electronics/3.3.jpg",
+        "/assets/images/electronics/3.4.jpg"
+      ],
+      "categoryId": 1,
+      "description": "Logitech G502 HERO High Performance Wired Gaming Mouse, HERO 25K Sensor, 25,600 DPI, RGB, Adjustable Weights, 11 Programmable Buttons, On-Board Memory, PC / Mac",
+      "price": 45,
+      "stock": 125
+    },
+    {
+      "id": 4,
+      "name": "Logitech G604 LIGHTSPEED",
+      "images": [
+        "/assets/images/electronics/4.jpg",
+        "/assets/images/electronics/4.1.jpg",
+        "/assets/images/electronics/4.2.jpg",
+        "/assets/images/electronics/4.3.jpg",
+        "/assets/images/electronics/4.4.jpg"
+      ],
+      "categoryId": 1,
+      "description": "Logitech G604 LIGHTSPEED Gaming Mouse with 15 programmable controls, up to 240 hour battery life, dual wireless connectivity modes, hyper-fast scroll wheel - Black",
+      "price": 59.99,
+      "stock": 95
+    },
+    {
+      "id": 5,
+      "name": "Logitech G213 Prodigy",
+      "images": [
+        "/assets/images/electronics/5.jpg",
+        "/assets/images/electronics/5.1.jpg",
+        "/assets/images/electronics/5.2.jpg",
+        "/assets/images/electronics/5.3.jpg",
+        "/assets/images/electronics/5.4.jpg"
+      ],
+      "categoryId": 1,
+      "description": "Logitech G213 Prodigy Gaming Keyboard, LIGHTSYNC RGB Backlit Keys, Spill-Resistant, Customizable Keys, Dedicated Multi-Media Keys – Black",
+      "price": 50,
+      "stock": 155
+    },
+    {
+      "id": 6,
+      "name": "SteelSeries Apex 3 TKL",
+      "images": [
+        "/assets/images/electronics/6.jpg",
+        "/assets/images/electronics/6.1.jpg",
+        "/assets/images/electronics/6.2.jpg",
+        "/assets/images/electronics/6.3.jpg",
+        "/assets/images/electronics/6.4.jpg"
+      ],
+      "categoryId": 1,
+      "description": "SteelSeries Apex 3 TKL RGB Gaming Keyboard – Tenkeyless Compact Form Factor - 8-Zone RGB Illumination – IP32 Water & Dust Resistant – Whisper Quiet Gaming Switch – Gaming Grade Anti-Ghosting",
+      "price": 28,
+      "stock": 3
+    },
+    {
+      "id": 7,
+      "name": "BENGOO G9000 ",
+      "images": [
+        "/assets/images/electronics/7.jpg",
+        "/assets/images/electronics/7.1.jpg",
+        "/assets/images/electronics/7.2.jpg",
+        "/assets/images/electronics/7.3.jpg",
+        "/assets/images/electronics/7.4.jpg"
+      ],
+      "categoryId": 1,
+      "description": "BENGOO G9000 Stereo Gaming Headset for PS4 PC Xbox One PS5 Controller, Noise Cancelling Over Ear Headphones with Mic, LED Light, Bass Surround, Soft Memory Earmuffs for Laptop Mac Nintendo NES Games",
+      "price": 24,
+      "stock": 6
+    },
+    {
+      "id": 8,
+      "name": "Logitech MK270",
+      "images": [
+        "/assets/images/electronics/8.jpg",
+        "/assets/images/electronics/8.1.jpg",
+        "/assets/images/electronics/8.2.jpg",
+        "/assets/images/electronics/8.3.jpg",
+        "/assets/images/electronics/8.4.jpg"
+      ],
+      "categoryId": 1,
+      "description": "Logitech MK270 Wireless Keyboard And Mouse Combo For Windows, 2.4 GHz Wireless, Compact Mouse, 8 Multimedia And Shortcut Keys, For PC, Laptop - Black",
+      "price": 80,
+      "stock": 50
+    },
+    {
+      "id": 9,
+      "name": "Swarovski Tennis Bracelet",
+      "images": [
+        "/assets/images/jewelry/1.jpg",
+        "/assets/images/jewelry/1.1.jpg",
+        "/assets/images/jewelry/1.2.jpg",
+        "/assets/images/jewelry/1.3.jpg",
+        "/assets/images/jewelry/1.4.jpg"
+      ],
+      "categoryId": 2,
+      "description": "Swarovski Tennis Bracelet and Earring Jewelry Collection, Rhodium Finish, Clear Crystals",
+      "price": 118,
+      "stock": 70
+    },
+    {
+      "id": 10,
+      "name": "Collar - N03595G-1",
+      "images": [
+        "/assets/images/jewelry/2.jpg",
+        "/assets/images/jewelry/2.1.jpg",
+        "/assets/images/jewelry/2.2.jpg",
+        "/assets/images/jewelry/2.3.jpg",
+        "/assets/images/jewelry/2.4.jpg"
+      ],
+      "categoryId": 2,
+      "description": "LONGLITER Charm Snowflake Pendant Necklace For Women Gold Chain Colorful Zircon Necklaces Jewerly Collar - N03595G-1",
+      "price": 29,
+      "stock": 160
+    },
+    {
+      "id": 11,
+      "name": "Bracelet -BR-2HBS",
+      "images": [
+        "/assets/images/jewelry/3.jpg",
+        "/assets/images/jewelry/3.1.jpg",
+        "/assets/images/jewelry/3.2.jpg",
+        "/assets/images/jewelry/3.3.jpg",
+        "/assets/images/jewelry/3.4.jpg"
+      ],
+      "categoryId": 2,
+      "description": "Custom Birthstone Bracelet For Women Mother's Day Gift From Daughter Gifts For Mom Personalized Family Bracelet -BR-2HBS",
+      "price": 15,
+      "stock": 90
+    },
+    {
+      "id": 12,
+      "name": "Halo Set",
+      "images": [
+        "/assets/images/jewelry/4.jpg",
+        "/assets/images/jewelry/4.1.jpg",
+        "/assets/images/jewelry/4.2.jpg"
+      ],
+      "categoryId": 2,
+      "description": "Amazon Collection Sterling Silver Cubic Zirconia Halo Pendant Necklace and Stud Earrings Jewelry Set",
+      "price": 79,
+      "stock": 2
+    },
+    {
+      "id": 13,
+      "name": "VIKI LYNN",
+      "images": [
+        "/assets/images/jewelry/5.jpg",
+        "/assets/images/jewelry/5.1.jpg",
+        "/assets/images/jewelry/5.2.jpg",
+        "/assets/images/jewelry/5.3.jpg"
+      ],
+      "categoryId": 2,
+      "description": "Freshwater Cultured Pearl Necklace Set Includes Stunning Bracelet and Stud Earrings Jewelry for Women",
+      "price": 120,
+      "stock": 15
+    },
+    {
+      "id": 14,
+      "name": "John Hardy",
+      "images": [
+        "/assets/images/jewelry/6.jpg",
+        "/assets/images/jewelry/6.1.jpg",
+        "/assets/images/jewelry/6.2.jpg",
+        "/assets/images/jewelry/6.3.jpg"
+      ],
+      "categoryId": 2,
+      "description": "Our iconic Classic Chain Collection is a symbol of eternal human connection and community bond.\nArtisan-crafted in Bali since 1975. Through powerful design, dramatic detail and inspiring meaning, John Hardy jewelry collections represent the pinnacle of craftsmanship and quality.",
+      "price": 895,
+      "stock": 2
+    },
+    {
+      "id": 15,
+      "name": "SWAROVSKI",
+      "images": [
+        "/assets/images/jewelry/7.jpg",
+        "/assets/images/jewelry/7.1.jpg",
+        "/assets/images/jewelry/7.2.jpg",
+        "/assets/images/jewelry/7.3.jpg"
+      ],
+      "categoryId": 2,
+      "description": "Simple and elegant: This mixed metal plated necklace combines the precision and quality of sparkling Swarovski crystals with a timeless necklace design, for a touch of glamour for every occasion",
+      "price": 102,
+      "stock": 9
+    },
+    {
+      "id": 16,
+      "name": "Alex and Ani",
+      "images": [
+        "/assets/images/jewelry/8.jpg",
+        "/assets/images/jewelry/8.1.jpg",
+        "/assets/images/jewelry/8.2.jpg",
+        "/assets/images/jewelry/8.3.jpg"
+      ],
+      "categoryId": 2,
+      "description": "Made in the USA Jewerly enveloped in love: Express your friendship with this Alex and Ani Soul Sisters Charm Bangle, reminding her that you are true kindred spirits and you’ll be there for her when she needs you most",
+      "price": 38,
+      "stock": 65
+    },
+    {
+      "id": 17,
+      "name": "CDE Infinity Heart Symbol",
+      "images": [
+        "/assets/images/jewelry/9.jpg",
+        "/assets/images/jewelry/9.1.jpg",
+        "/assets/images/jewelry/9.2.jpg",
+        "/assets/images/jewelry/9.3.jpg",
+        "/assets/images/jewelry/9.4.jpg"
+      ],
+      "categoryId": 2,
+      "description": "CDE Infinity Heart Symbol Charm Bracelet for Women 925 Sterling Silver Stainless Steel Adjustable Anniversary Valentine's Day Jewelry Gift Birthday Gifts for Women Mom Wife Girls Her",
+      "price": 69,
+      "stock": 5
+    },
+    {
+      "id": 18,
+      "name": "LOYJOY",
+      "images": [
+        "/assets/images/jewelry/10.jpg",
+        "/assets/images/jewelry/10.1.jpg",
+        "/assets/images/jewelry/10.2.jpg",
+        "/assets/images/jewelry/10.3.jpg"
+      ],
+      "categoryId": 2,
+      "description": "LOYJOY Adjustable Rings For Women Men Vintage Ring Unique Design HipHop Punk Jewerly Anillos - Silver Plated - Resizable",
+      "price": 19,
+      "stock": 63
+    },
+    {
+      "id": 19,
+      "name": "Denim Jacket",
+      "images": [
+        "/assets/images/wclothing/1.jpg",
+        "/assets/images/wclothing/1.1.jpg",
+        "/assets/images/wclothing/1.2.jpg",
+        "/assets/images/wclothing/1.3.jpg",
+        "/assets/images/wclothing/1.4.jpg"
+      ],
+      "categoryId": 3,
+      "description": "Wrangler Authentics Women's Stretch Denim Jacket.Come rain or shine, a classic denim jacket will always have your back. This stylish take on a wardrobe staple is designed to complete any look. Best of all, it will never go out of style.",
+      "price": 69,
+      "stock": 75
+    },
+    {
+      "id": 20,
+      "name": "Crewneck Sweatshirt",
+      "images": [
+        "/assets/images/wclothing/2.jpg",
+        "/assets/images/wclothing/2.1.jpg",
+        "/assets/images/wclothing/2.2.jpg"
+      ],
+      "categoryId": 3,
+      "description": "Hanes Women's Crewneck Sweatshirt, EcoSmart Fleece Women's Pullover Sweatshirt, Sweatshirt for Women",
+      "price": 14,
+      "stock": 50
+    },
+    {
+      "id": 21,
+      "name": "Columbia Women's Heavenly Jacket",
+      "images": [
+        "/assets/images/wclothing/3.jpg",
+        "/assets/images/wclothing/3.1.jpg",
+        "/assets/images/wclothing/3.2.jpg",
+        "/assets/images/wclothing/3.3.jpg",
+        "/assets/images/wclothing/3.4.jpg"
+      ],
+      "categoryId": 3,
+      "description": "This women's water resistant jacket features an active fit for comfortable warmth and protection during active outings.",
+      "price": 92,
+      "stock": 16
+    },
+    {
+      "id": 22,
+      "name": "Regular Fit Trouser Pant",
+      "images": [
+        "/assets/images/wclothing/4.jpg",
+        "/assets/images/wclothing/4.1.jpg",
+        "/assets/images/wclothing/4.2.jpg",
+        "/assets/images/wclothing/4.3.jpg"
+      ],
+      "categoryId": 3,
+      "description": "Made with flexible fabric and a non-binding waistband, these women's dress pants are made for long days. A work-appropriate classic, perfect for mixing and matching with your favorite tops.",
+      "price": 24,
+      "stock": 80
+    },
+    {
+      "id": 23,
+      "name": "Knit Cotton Jacket",
+      "images": [
+        "/assets/images/wclothing/5.jpg",
+        "/assets/images/wclothing/5.1.jpg",
+        "/assets/images/wclothing/5.2.jpg"
+      ],
+      "categoryId": 3,
+      "description": "The cotton jersey slub hoodie is designed with a functional drawstring hood, ideal for cool days.",
+      "price": 11,
+      "stock": 20
+    },
+    {
+      "id": 24,
+      "name": "Columbia Women's Heavenly HDD Jacket",
+      "images": [
+        "/assets/images/wclothing/6.jpg",
+        "/assets/images/wclothing/6.1.jpg",
+        "/assets/images/wclothing/6.2.jpg",
+        "/assets/images/wclothing/6.3.jpg",
+        "/assets/images/wclothing/6.4.jpg"
+      ],
+      "categoryId": 3,
+      "description": "his Columbia Women's Heavenly Hooded Jacket features Omni-Heat Reflective 100% polyester lining that works to keep you dry and warm by reflectiving your body heat with embedded silver dots.",
+      "price": 124.94,
+      "stock": 32
+    },
+    {
+      "id": 25,
+      "name": "UANEO Cropped Puffer Vest",
+      "images": [
+        "/assets/images/wclothing/7.jpg",
+        "/assets/images/wclothing/7.1.jpg",
+        "/assets/images/wclothing/7.2.jpg",
+        "/assets/images/wclothing/7.3.jpg",
+        "/assets/images/wclothing/7.4.jpg"
+      ],
+      "categoryId": 3,
+      "description": "Adorable cropped vest goes well with shirt/leggings/jeans/sweaters/hoodies/knitted dress/jumpsuit, and there are also three other styles available: vegan leather vest, reversible vest and ribbed hemline style",
+      "price": 34.80,
+      "stock": 51
+    },
+    {
+      "id": 26,
+      "name": "Motorcycle Jacket",
+      "images": [
+        "/assets/images/wclothing/8.jpg",
+        "/assets/images/wclothing/8.1.jpg",
+        "/assets/images/wclothing/8.2.jpg",
+        "/assets/images/wclothing/8.3.jpg"
+      ],
+      "categoryId": 3,
+      "description": "Front zipper closure paired with one chest zipper pocket and two lower zipper for viable storage and safe keeping; The outer shell is water resistant allowing for easy care",
+      "price": 56.20,
+      "stock": 25
+    },
+    {
+      "id": 27,
+      "name": "Hanes Sport Women's Polo Shirt",
+      "images": [
+        "/assets/images/wclothing/9.jpg",
+        "/assets/images/wclothing/9.1.jpg",
+        "/assets/images/wclothing/9.2.jpg"
+      ],
+      "categoryId": 3,
+      "description": "Built with FreshIQ, this odor protecting technology attacks odor-causing bacteria so you can feel fresh all day.",
+      "price": 15.98,
+      "stock": 75
+    },
+    {
+      "id": 28,
+      "name": "Neckline Fit and Flare Midi Dress",
+      "images": [
+        "/assets/images/wclothing/10.jpg",
+        "/assets/images/wclothing/10.1.jpg",
+        "/assets/images/wclothing/10.2.jpg"
+      ],
+      "categoryId": 3,
+      "description": "Dress the Population womens Elisa Sleeveless Plunge Neckline Fit and Flare Midi Dress",
+      "price": 40,
+      "stock": 12
+    },
+    {
+      "id": 29,
+      "name": "Pullover",
+      "images": [
+        "/assets/images/mclothing/1.jpg",
+        "/assets/images/mclothing/1.1.jpg",
+        "/assets/images/mclothing/1.2.jpg",
+        "/assets/images/mclothing/1.3.jpg"
+      ],
+      "categoryId": 4,
+      "description": "Fruit of the Loom Eversoft Fleece Hoodies, Pullover & Full Zip, Moisture Wicking & Breathable, Sizes S-4X",
+      "price": 14.21,
+      "stock": 63
+    },
+    {
+      "id": 30,
+      "name": "Men's Crewneck T-Shirt",
+      "images": [
+        "/assets/images/mclothing/2.jpg",
+        "/assets/images/mclothing/2.1.jpg",
+        "/assets/images/mclothing/2.2.jpg",
+        "/assets/images/mclothing/2.3.jpg"
+      ],
+      "categoryId": 4,
+      "description": "Smooth and comfortable lightweight jersey fabric",
+      "price": 10,
+      "stock": 60
+    },
+    {
+      "id": 31,
+      "name": "Lightweight Joggers",
+      "images": [
+        "/assets/images/mclothing/3.jpg",
+        "/assets/images/mclothing/3.1.jpg",
+        "/assets/images/mclothing/3.2.jpg"
+      ],
+      "categoryId": 4,
+      "description": "Champion Men's Everyday Cotton Graphic Joggers, Men’s Sweatpants, Men’s Lightweight Joggers,31\"",
+      "price": 22.50,
+      "stock": 12
+    },
+    {
+      "id": 32,
+      "name": "Graphic Shorts",
+      "images": [
+        "/assets/images/mclothing/4.jpg",
+        "/assets/images/mclothing/4.1.jpg",
+        "/assets/images/mclothing/4.2.jpg",
+        "/assets/images/mclothing/4.3.jpg",
+        "/assets/images/mclothing/4.4.jpg"
+      ],
+      "categoryId": 4,
+      "description": "Under Armour Men's Tech Graphic Shorts",
+      "price": 14.25,
+      "stock": 75
+    },
+    {
+      "id": 33,
+      "name": "Softshell Jacket",
+      "images": [
+        "/assets/images/mclothing/5.jpg",
+        "/assets/images/mclothing/5.1.jpg",
+        "/assets/images/mclothing/5.2.jpg",
+        "/assets/images/mclothing/5.3.jpg"
+      ],
+      "categoryId": 4,
+      "description": "Crafted from 100% polyester that offers comfort stretch, this comfortable softshell makes for versatile wear — from the trail to the office.",
+      "price": 58.91,
+      "stock": 30
+    },
+    {
+      "id": 34,
+      "name": "Fleece Sweatpants with Pockets",
+      "images": [
+        "/assets/images/mclothing/6.jpg",
+        "/assets/images/mclothing/6.1.jpg"
+      ],
+      "categoryId": 4,
+      "description": "Fruit of the Loom Eversoft Fleece Sweatpants with Pockets, Moisture Wicking & Breathable, Sizes S-4X",
+      "price": 29.25,
+      "stock": 14
+    },
+    {
+      "id": 35,
+      "name": "Hanes Men's Hoodie",
+      "images": [
+        "/assets/images/mclothing/7.jpg",
+        "/assets/images/mclothing/7.1.jpg",
+        "/assets/images/mclothing/7.2.jpg",
+        "/assets/images/mclothing/7.3.jpg"
+      ],
+      "categoryId": 4,
+      "description": "Hanes Men's Hoodie, EcoSmart Fleece Zip-Front Hooded Sweatshirt, Cotton-Blend Fleece Hooded Sweatshirt, Mid-Weight Zip-Up",
+      "price": 41.18,
+      "stock": 23
+    },
+    {
+      "id": 36,
+      "name": "Workout Pants",
+      "images": [
+        "/assets/images/mclothing/8.jpg",
+        "/assets/images/mclothing/8.1.jpg",
+        "/assets/images/mclothing/8.2.jpg",
+        "/assets/images/mclothing/8.3.jpg",
+        "/assets/images/mclothing/8.4.jpg"
+      ],
+      "categoryId": 4,
+      "description": "Under Armour Men's Woven Vital Workout Pants",
+      "price": 32.91,
+      "stock": 18
+    },
+    {
+      "id": 37,
+      "name": "Water-Resistant Puffer Jacket",
+      "images": [
+        "/assets/images/mclothing/9.jpg",
+        "/assets/images/mclothing/9.1.jpg",
+        "/assets/images/mclothing/9.2.jpg",
+        "/assets/images/mclothing/9.3.jpg",
+        "/assets/images/mclothing/9.4.jpg"
+      ],
+      "categoryId": 4,
+      "description": "Amazon Essentials Men's Packable Lightweight Water-Resistant Puffer Jacket (Available in Big & Tall)",
+      "price": 15,
+      "stock": 24
+    },
+    {
+      "id": 38,
+      "name": "Flannel Shirt",
+      "images": [
+        "/assets/images/mclothing/10.jpg",
+        "/assets/images/mclothing/10.1.jpg",
+        "/assets/images/mclothing/10.2.jpg",
+        "/assets/images/mclothing/10.3.jpg",
+        "/assets/images/mclothing/10.4.jpg"
+      ],
+      "categoryId": 4,
+      "description": "he classic single pocket design gives you a clean look while providing an option for storage; use the pencil slot to hold your pencil when scoring on the range, or for your sunglasses when not in use",
+      "price": 35.99,
+      "stock": 68
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronic"
+    },
+    {
+      "id": 2,
+      "name": "Jewelery"
+    },
+    {
+      "id": 3,
+      "name": "Women’s Clothing"
+    },
+    {
+      "id": 4,
+      "name": "Men’s Clothing"
+    }
+  ]
+}
