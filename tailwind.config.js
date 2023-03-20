@@ -57,6 +57,12 @@ module.exports = {
       screens: {
         "2xl": "1500px",
       },
+      height: {
+        600: "37rem",
+      },
+      width: {
+        600: "40rem",
+      },
     },
   },
 };

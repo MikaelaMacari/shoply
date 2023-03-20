@@ -1,9 +1,13 @@
 "use client";
 
 import React from "react";
-import Hero from "./Hero";
-import Partners from "./Partners";
-import Products from "./Products";
+import dynamic from "next/dynamic";
+
+const Hero = dynamic(() => import("./Hero"));
+const Partners = dynamic(() => import("./Partners"));
+const Products = dynamic(() => import("./Products"));
+const Benefits = dynamic(() => import("./Benefits"));
+const Testimonials = dynamic(() => import("./Testimonials"));
 
 const HomeContent: React.FC = () => {
   return (
@@ -11,6 +15,8 @@ const HomeContent: React.FC = () => {
       <Hero />
       <Partners />
       <Products />
+      <Benefits />
+      <Testimonials />
     </>
   );
 };

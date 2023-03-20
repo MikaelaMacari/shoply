@@ -1,0 +1,7 @@
+.btn {
+    @apply text-secondaryMain text-sm py-3 px-5 transition ease-in delay-150 bg-errorContrastText  hover:bg-grey-300 duration-150
+}
+
+.add-btn {
+    @apply px-7 py-3 transition ease-in delay-100 bg-primaryMain  text-secondaryLight hover:bg-primaryDark duration-100 text-base
+}

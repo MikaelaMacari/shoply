@@ -12,7 +12,6 @@ type CardPropsType = {
 };
 
 const Card = ({ item }: CardPropsType) => {
-  console.log(item.id);
   return (
     <Link href={`/products/${item.id}`} key={item.id} className="card">
       <Image

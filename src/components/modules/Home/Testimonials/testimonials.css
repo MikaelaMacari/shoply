@@ -1,0 +1,8 @@
+.description {
+    @apply font-roboto text-2xl text-secondaryMain
+}
+
+.span {
+    @apply text-4xl text-textPrimary
+}
+
